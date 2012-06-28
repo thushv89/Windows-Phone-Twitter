@@ -1,0 +1,13 @@
+c:\users\99xctga\documents\visual studio 2010\Projects\PhoneApp2\PhoneApp2\Bin\Debug\ApplicationIcon.png
+c:\users\99xctga\documents\visual studio 2010\Projects\PhoneApp2\PhoneApp2\Bin\Debug\Background.png
+c:\users\99xctga\documents\visual studio 2010\Projects\PhoneApp2\PhoneApp2\Bin\Debug\PhoneApp2.dll
+c:\users\99xctga\documents\visual studio 2010\Projects\PhoneApp2\PhoneApp2\Bin\Debug\PhoneApp2.pdb
+c:\users\99xctga\documents\visual studio 2010\Projects\PhoneApp2\PhoneApp2\Bin\Debug\AppManifest.xaml
+c:\users\99xctga\documents\visual studio 2010\Projects\PhoneApp2\PhoneApp2\Bin\Debug\PhoneApp2.xap
+c:\users\99xctga\documents\visual studio 2010\Projects\PhoneApp2\PhoneApp2\obj\Debug\ResolveAssemblyReference.cache
+c:\users\99xctga\documents\visual studio 2010\Projects\PhoneApp2\PhoneApp2\obj\Debug\App.g.i.cs
+c:\users\99xctga\documents\visual studio 2010\Projects\PhoneApp2\PhoneApp2\obj\Debug\MainPage.g.i.cs
+c:\users\99xctga\documents\visual studio 2010\Projects\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.g.resources
+c:\users\99xctga\documents\visual studio 2010\Projects\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.dll
+c:\users\99xctga\documents\visual studio 2010\Projects\PhoneApp2\PhoneApp2\obj\Debug\PhoneApp2.pdb
+c:\users\99xctga\documents\visual studio 2010\Projects\PhoneApp2\PhoneApp2\obj\Debug\XapCacheFile.xml
